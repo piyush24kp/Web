@@ -1,4 +1,10 @@
 /* StockAnalysis.css */
+.stock-analysis {
+ /* background-color: #ffffff;  Change this to your preferred color */
+  /* Or use an image as the background */
+  /* background-image: url('path-to-your-image.jpg'); */
+  /* background-size: cover; */
+}
 .styled-table {
   border-collapse: collapse;
   margin: 25px 0;

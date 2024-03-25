@@ -32,9 +32,11 @@ function HomePage({ setBaseURL }) {
   return (
     <div className="App">
       <header className="App-header">
+        <div className="input-container">
         <p>Please enter the base URL for API calls:</p>
-        <input type="text" value={inputValue} onChange={handleInputChange} />
-        <button onClick={handleSubmit}>Submit</button>
+        <input type="text" value={inputValue} onChange={handleInputChange} className="input-field" />
+        <button onClick={handleSubmit} className="submit-button">Submit</button>
+        </div>
       </header>
     </div>
   );
