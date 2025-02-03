@@ -1,0 +1,33 @@
+/* .chart-grid-container {
+  height: 100vh; 
+  width: 100vw;
+  box-sizing: border-box; 
+  overflow: hidden;
+} */
+
+/* Remove scrolling */
+body, html {
+  overflow: hidden;
+  height: 100%;
+  margin: 0;
+}
+
+/* Flex container for the whole app */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Use the full height of the viewport */
+}
+
+/* Style for the form section */
+.form-section {
+  /* Adjust according to your needs. This ensures the form section takes only the necessary space */
+}
+
+/* Ensure the chart section takes up remaining space */
+.chart-grid-container {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
