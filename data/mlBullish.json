@@ -1,0 +1,550 @@
+{
+    "AARTIIND": {
+        "active": false,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:22:29 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:36:31 GMT"
+            }
+        ]
+    },
+    "ABBOTINDIA": {
+        "active": true,
+        "counter": 3,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:40:57 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:07:09 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:13:03 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:27:15 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:29:37 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "ABCAPITAL": {
+        "active": false,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:34:11 GMT"
+            }
+        ]
+    },
+    "ADANIPORTS": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:48:15 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:51:45 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:57:44 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:02:26 GMT"
+            }
+        ]
+    },
+    "AMBUJACEM": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:07:19 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:13:09 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:43:33 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:44:44 GMT"
+            }
+        ]
+    },
+    "APOLLOHOSP": {
+        "active": true,
+        "counter": 3,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:41:12 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:43:33 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:44:44 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:45:54 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:21:20 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "BANKBARODA": {
+        "active": false,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:02:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:29:37 GMT"
+            }
+        ]
+    },
+    "BIOCON": {
+        "active": true,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "BSE": {
+        "active": false,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:48:15 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:50:35 GMT"
+            }
+        ]
+    },
+    "CDSL": {
+        "active": false,
+        "counter": 4,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:42:05 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:11:59 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:28:20 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:33:01 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:35:21 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:37:42 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:14:14 GMT"
+            }
+        ]
+    },
+    "COALINDIA": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:02:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:17:49 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:15:25 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:17:47 GMT"
+            }
+        ]
+    },
+    "CONCOR": {
+        "active": false,
+        "counter": 3,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:53:27 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 13:54:36 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:56:54 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:00:22 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:01:31 GMT"
+            }
+        ]
+    },
+    "CROMPTON": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 15:21:20 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:24:53 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:26:04 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:27:15 GMT"
+            }
+        ]
+    },
+    "FEDERALBNK": {
+        "active": true,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "GUJGASLTD": {
+        "active": false,
+        "counter": 6,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:44:20 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:54:36 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:34:11 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:35:21 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:36:31 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:38:52 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:41:12 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:54:10 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:57:44 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:16:36 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:17:47 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:24:53 GMT"
+            }
+        ]
+    },
+    "IEX": {
+        "active": false,
+        "counter": 4,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:40:57 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 13:59:12 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:20:09 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:41:12 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:50:35 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:54:10 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:01:16 GMT"
+            }
+        ]
+    },
+    "IGL": {
+        "active": true,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "IOC": {
+        "active": false,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:53:27 GMT"
+            }
+        ]
+    },
+    "KPITTECH": {
+        "active": false,
+        "counter": 4,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:06:09 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:09:39 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:17:49 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:20:09 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:21:19 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:30:40 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:34:11 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:43:33 GMT"
+            }
+        ]
+    },
+    "LAURUSLABS": {
+        "active": true,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 15:00:05 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "LTIM": {
+        "active": true,
+        "counter": 9,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:39:47 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:51:10 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 13:55:44 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:56:54 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 13:58:03 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:59:12 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:00:22 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:01:31 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:02:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:06:09 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:13:09 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:15:29 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:18:58 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:36:31 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:58:54 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:00:05 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:27:15 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "LTTS": {
+        "active": false,
+        "counter": 4,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:46:36 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:48:53 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:01:31 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:02:40 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:06:09 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:03:37 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:05:58 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:15:25 GMT"
+            }
+        ]
+    },
+    "LUPIN": {
+        "active": true,
+        "counter": 3,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:44:20 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:40:02 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:58:54 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:01:16 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:10:41 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "MANAPPURAM": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:33:01 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:36:31 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:40:02 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:43:33 GMT"
+            }
+        ]
+    },
+    "MCX": {
+        "active": true,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "NAUKRI": {
+        "active": true,
+        "counter": 6,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:52:19 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 13:53:27 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:54:36 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:01:31 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:02:40 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:08:29 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:09:39 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:54:10 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:03:37 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:04:47 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "NMDC": {
+        "active": false,
+        "counter": 3,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:01:31 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:02:40 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:03:50 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:38:52 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:40:02 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:45:54 GMT"
+            }
+        ]
+    },
+    "PAGEIND": {
+        "active": false,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:58:03 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:59:12 GMT"
+            }
+        ]
+    },
+    "PERSISTENT": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:39:47 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 13:45:28 GMT",
+                "removed_time": "Wed, 05 Feb 2025 13:48:53 GMT"
+            }
+        ]
+    },
+    "PETRONET": {
+        "active": true,
+        "counter": 4,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:38:40 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:05:00 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:06:09 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:08:29 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:16:39 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:38:52 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:21:20 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "RECLTD": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:27:10 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:57:44 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:01:16 GMT",
+                "removed_time": "Wed, 05 Feb 2025 15:02:26 GMT"
+            }
+        ]
+    },
+    "SIEMENS": {
+        "active": true,
+        "counter": 1,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:17:49 GMT",
+                "removed_time": null
+            }
+        ]
+    },
+    "TATACHEM": {
+        "active": false,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 13:59:12 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:02:40 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 14:03:50 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:06:09 GMT"
+            }
+        ]
+    },
+    "ULTRACEMCO": {
+        "active": true,
+        "counter": 2,
+        "times": [
+            {
+                "added_time": "Wed, 05 Feb 2025 14:00:22 GMT",
+                "removed_time": "Wed, 05 Feb 2025 14:14:19 GMT"
+            },
+            {
+                "added_time": "Wed, 05 Feb 2025 15:29:37 GMT",
+                "removed_time": null
+            }
+        ]
+    }
+}
